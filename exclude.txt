@@ -1,0 +1,47 @@
+Backup-script
+sfuvault
+Dropbox
+OneDrive
+Google Drive
+.instagiffer
+Videos
+VirtualBox VMs
+Anaconda3
+Downloads
+*\WiiU Games
+*\WiiU sysNAND Backup
+AppData\*\Oracle
+AppData\*\discord
+AppData\*\Twitch
+AppData\*\discordcanary
+AppData\*\Slack
+AppData\*\Guild Wars 2
+AppData\*\Microsoft
+AppData\*\Google
+AppData\*\atom
+AppData\*\slack
+AppData\*\Steam
+AppData\*\DiscordCanary
+AppData\*\Discord
+AppData\*\Roblox
+AppData\*\Temp
+AppData\*\Apowersoft
+AppData\*\Adobe
+AppData\*\Dropbox
+AppData\*\NVIDIA
+*\backup-old.7z
+Pictures
+.m2
+Music
+SovSkyWindows
+My Books
+Mozilla
+*\Curse
+Searches
+3D Objects
+Favorites
+Links
+MicrosoftEdgeBackups
+Plex Media Server
+AndApp
+IDrive Excludes
