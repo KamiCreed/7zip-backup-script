@@ -5,7 +5,7 @@ A 7zip backup script for windows
 - Add following variables
 ```
 set Pass="<pass>"
-set BackupFile="W:\path\to\backup\zip\file"
+set BackupFile="W:\path\to\backup\zip\file.7z"
 set Threads=4
 ```
 - Edit the `include.txt` and `exclude.txt` for your own purposes
